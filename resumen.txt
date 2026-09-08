@@ -1,0 +1,148 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                 MAPA CONCEPTUAL: LIBRE CAMBIO VS PROTECCIONISMO             ║
+║                         TEORÍA COMERCIAL INTERNACIONAL                      ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+═══════════════════════════════════════════════════════════════════════════════
+1. LIBRE CAMBIO
+═══════════════════════════════════════════════════════════════════════════════
+
+▸ FUNDAMENTOS HISTÓRICOS
+  • Escuela Clásica y Mercantilistas
+  • Concepto: El comercio como juego de suma cero
+  • Enfoque: Acumulación de oro y superávit comercial
+
+▸ TEORÍA CLÁSICA
+  • Autores: Adam Smith y David Ricardo
+  • Concepto: Ventaja Absoluta y Comparativa
+  • Base: Eficiencia en costos y productividad del trabajo
+
+▸ CRÍTICAS Y DEFENSAS
+  • Crítica de David Hume: Mecanismo de flujo especie-precio
+    → Demuestra que superávits eternos son imposibles
+    → A largo plazo aumentan los precios
+  
+  • Defensa de John Stuart Mill: Ventajas directas e indirectas
+    → Ampliación de mercados
+    → Perfeccionamiento productivo
+
+▸ EVOLUCIÓN MODERNA
+  • Modelo Heckscher-Ohlin
+    → Abundancia factorial determina especialización
+    → Patrón de especialización por país
+  
+  • Teorema Stolper-Samuelson
+    → Distribución del ingreso
+    → Favorece al factor de producción abundante
+  
+  • Aportaciones de Paul Krugman
+    → Economías de escala y diferenciación
+    → Comercio intra-industrial competitivo
+
+═══════════════════════════════════════════════════════════════════════════════
+2. PROTECCIONISMO
+══════════════════════════════════════════════════���════════════════════════════
+
+▸ FUNDAMENTOS TEÓRICOS
+  • Estructuralismo Latinoamericano
+  • Formulado por: Raúl Prebisch y la CEPAL
+  • Concepto: Sistema mundial asimétrico
+    → Centro industrializado
+    → Periferia primaria
+
+▸ TESIS CLAVE: PREBISCH-SINGER
+  • Deterioro de términos de intercambio
+  • Causas:
+    → Baja elasticidad de demanda
+    → Ley de Engel
+  • Implicación: Desventaja permanente para países periféricos
+
+▸ ESTRATEGIA DE APLICACIÓN: ISI
+  • Industrialización por Sustitución de Importaciones
+  • Objetivo: Fortalecer el mercado interno
+  • Herramienta: Aumento del gasto público
+
+▸ MECANISMOS DE IMPLEMENTACIÓN
+  • Razones de Política Comercial
+  • Aranceles
+  • Efectos:
+    → Elevación del precio importado
+    → Pérdida de eficiencia por distorsiones de producción y consumo
+
+▸ ARGUMENTOS JUSTIFICADORES
+  • Industria Naciente
+    → Protección temporal
+    → Adquisición de competitividad
+  
+  • Política Comercial Estratégica (PCE)
+    → Selectividad estatal
+    → Industrias con economías de escala
+
+═══════════════════════════════════════════════════════════════════════════════
+3. EL BALANCE Y CONCLUSIONES
+═══════════════════════════════════════════════════════════════════════════════
+
+▸ EFICIENCIA ECONÓMICA
+  ✓ Virtudes del Librecambio
+    • Limita monopolios
+    • Reduce precios
+    • Aumenta opciones de consumo
+
+  ✗ Costos de Protección Excesiva
+    • Rentas monopólicas artificiales
+    • Desvío del sector exportador
+    • Pérdida de competitividad
+
+▸ ASIMETRÍAS ESTRUCTURALES
+  • Países Desarrollados
+    → Aplicaron proteccionismo histórico
+    → Hoy lideran el libre comercio
+    → Cuentan con ventajas tecnológicas
+  
+  • Países en Desarrollo
+    → Menor productividad
+    → Costos laborales desfavorables
+    → Vulnerabilidad estructural
+    → Requieren industrialización
+
+▸ CONCLUSIÓN FINAL
+  ⚖️ ARTICULACIÓN DE POLÍTICAS
+  
+  No se trata de elegir SOLO libre cambio O SOLO proteccionismo,
+  sino de combinar:
+  
+  1. Política Comercial (flexibilidad arancelaria)
+  2. Política Industrial (desarrollo de sectores)
+  3. Sostenibilidad (equidad social)
+  4. Justicia (distribución del ingreso)
+
+═══════════════════════════════════════════════════════════════════════════════
+PRINCIPALES AUTORES Y APORTES
+═══════════════════════════════════════════════════════════════════════════════
+
+Libre Cambio:
+  • Adam Smith (1776) - Mano invisible y división del trabajo
+  • David Ricardo (1817) - Ventaja comparativa
+  • David Hume - Crítica al mercantilismo
+  • John Stuart Mill - Beneficios indirectos del comercio
+  • Eli Heckscher & Bertil Ohlin - Dotación factorial
+  • Paul Krugman - Comercio intra-industrial y economías de escala
+
+Proteccionismo:
+  • Raúl Prebisch (1949) - Centro-Periferia
+  • CEPAL - Estructuralismo latinoamericano
+  • H.W. Singer - Deterioro de términos de intercambio
+  • Alexander Hamilton - Industria naciente
+
+═══════════════════════════════════════════════════════════════════════════════
+KEY TAKEAWAYS
+═══════════════════════════════════════════════════════════════════════════════
+
+1. El libre cambio maximiza eficiencia pero puede profundizar desigualdades
+2. El proteccionismo puede desarrollar industrias pero genera ineficiencias
+3. Los países desarrollados usaron proteccionismo al industrializarse
+4. Los países en desarrollo enfrentan asimetrías estructurales reales
+5. La solución está en políticas ARTICULADAS, no en extremos
+6. Política comercial + política industrial = desarrollo sostenible
+
+═══════════════════════════════════════════════════════════════════════════════

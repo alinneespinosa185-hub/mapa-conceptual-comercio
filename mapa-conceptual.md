@@ -1,3 +1,7 @@
+# Mapa Conceptual: Libre Cambio vs Proteccionismo
+
+## Teoría Comercial Internacional
+
 ```mermaid
 flowchart TD
     classDef librecambio fill:#fce4ec,stroke:#ad1457,stroke-width:2px,color:#2c3e50;
